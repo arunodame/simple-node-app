@@ -1,3 +1,3 @@
 module.exports = () => {
-	return {date: Date.now()}
+	return "Hello World"
 };
