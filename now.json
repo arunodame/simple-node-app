@@ -1,3 +1,4 @@
 {
-  "type": "npm"
+  "type": "npm",
+  "alias": "simple-node-app-arunoda.now.sh"
 }
